@@ -92,13 +92,20 @@ A full-stack application designed to connect EV users with charging station owne
 
 ---
 
-### 🛒 E-Commerce Management Platform
+### 👨‍💼 Employee Management System
 
-A web-based application for managing products and e-commerce workflows with a Java backend.
+A full-stack application for managing employee information and streamlining employee-related operations through a centralized system.
 
-**Tech:** Java • Spring Boot • JPA • Hibernate • REST API • MySQL • React
+**Key Features**
 
----
+- 👤 Employee registration and management
+- 📝 Create, update and delete employee records
+- 🔍 Search and retrieve employee information
+- 🏢 Department and employee data management
+- 🔄 RESTful APIs for employee operations
+- 🗄️ Persistent data storage using MySQL
+
+**Tech:** Java • Spring Boot • REST API • JPA • Hibernate • MySQL • React
 
 ## 📚 Currently Learning
 
