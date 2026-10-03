@@ -94,18 +94,24 @@ A full-stack application designed to connect EV users with charging station owne
 
 ### 👨‍💼 Employee Management System
 
-A full-stack application for managing employee information and streamlining employee-related operations through a centralized system.
+A full-stack employee management application built with a **Spring Boot backend and React frontend**, providing REST APIs for managing employee records.
 
 **Key Features**
 
 - 👤 Employee registration and management
-- 📝 Create, update and delete employee records
-- 🔍 Search and retrieve employee information
-- 🏢 Department and employee data management
-- 🔄 RESTful APIs for employee operations
-- 🗄️ Persistent data storage using MySQL
+- ➕ Add new employees
+- ✏️ Update employee information
+- 🗑️ Delete employee records
+- 🔍 Retrieve employee details
+- 🔄 RESTful API-based communication
+- 🗄️ MySQL database integration
+- ⚛️ React-based user interface
 
 **Tech:** Java • Spring Boot • REST API • JPA • Hibernate • MySQL • React
+
+**Repositories:**  
+🔹 [Backend](https://github.com/Bhavesh113/employee-management-system-backend)  
+🔹 [Frontend](https://github.com/Bhavesh113/employee-management-system-frontend)
 
 ## 📚 Currently Learning
 
