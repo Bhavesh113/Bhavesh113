@@ -101,9 +101,6 @@ A full-stack fintech application designed to simulate **secure digital payment p
 
 **Tech:** Java 17 • Spring Boot • Spring Security • JWT • Spring Data JPA • Hibernate • MySQL • Apache Kafka • React.js • Axios • Docker • Swagger/OpenAPI • JUnit
 
-**Repository:**  
-🔹 [Smart Payment Transaction Platform](https://github.com/Bhavesh113/smart-payment-transaction-platform)
-
 ---
 
 ### ⚡ EV Charging Station Management System
